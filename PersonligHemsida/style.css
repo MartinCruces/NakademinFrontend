@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Oswald:wght@600&display=swap');
+
 body{
     background-color: #bfc29c;
+}
+h1{
+    
+font-family: 'Ballet', cursive;
+font-family: 'Oswald', sans-serif;
 }
 a:link{
     color: #6858c5;pointer-events:painted;
