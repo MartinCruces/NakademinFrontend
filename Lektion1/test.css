@@ -1,8 +1,26 @@
-body{background-color: #bfc29c;}
-h1{font-family: Arial, Helvetica, sans-serif; color: #601c05;}
-h2{font-family: Arial, Helvetica, sans-serif; color:#601c05;}
-p{color: #601c05;}
-a:link{color: #6858c5;pointer-events:painted;}
-a:hover{color: #3a23c1;}
-a:active{color: #d160d3;}
-a:visited{color:#3d7777; font-style: oblique;}
+body{
+    background-color: #bfc29c;
+}
+h1{
+    font-family: Arial,Helvetica, sans-serif; 
+    color: #601c05;}
+h2{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:#601c05;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #601c05;
+}
+a:link{
+    color: #6858c5;pointer-events:painted;
+}
+a:hover{
+    color: #3a23c1;
+}
+a:active{
+    color: #d160d3;
+}
+a:visited{
+    color:#3d7777; font-style: oblique;
+}
+
